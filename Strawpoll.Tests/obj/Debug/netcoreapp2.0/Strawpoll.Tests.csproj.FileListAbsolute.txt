@@ -1,0 +1,17 @@
+C:\Projekty\Strawpoll\Strawpoll.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projekty\Strawpoll\Strawpoll.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Projekty\Strawpoll\Strawpoll.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Projekty\Strawpoll\Strawpoll.Tests\bin\Debug\netcoreapp2.0\Strawpoll.Tests.deps.json
+C:\Projekty\Strawpoll\Strawpoll.Tests\bin\Debug\netcoreapp2.0\Strawpoll.Tests.runtimeconfig.json
+C:\Projekty\Strawpoll\Strawpoll.Tests\bin\Debug\netcoreapp2.0\Strawpoll.Tests.runtimeconfig.dev.json
+C:\Projekty\Strawpoll\Strawpoll.Tests\bin\Debug\netcoreapp2.0\Strawpoll.Tests.dll
+C:\Projekty\Strawpoll\Strawpoll.Tests\bin\Debug\netcoreapp2.0\Strawpoll.Tests.pdb
+C:\Projekty\Strawpoll\Strawpoll.Tests\bin\Debug\netcoreapp2.0\Strawpoll.Core.dll
+C:\Projekty\Strawpoll\Strawpoll.Tests\bin\Debug\netcoreapp2.0\Strawpoll.Core.pdb
+C:\Projekty\Strawpoll\Strawpoll.Tests\obj\Debug\netcoreapp2.0\Strawpoll.Tests.csprojResolveAssemblyReference.cache
+C:\Projekty\Strawpoll\Strawpoll.Tests\obj\Debug\netcoreapp2.0\Strawpoll.Tests.csproj.CoreCompileInputs.cache
+C:\Projekty\Strawpoll\Strawpoll.Tests\obj\Debug\netcoreapp2.0\Strawpoll.Tests.AssemblyInfoInputs.cache
+C:\Projekty\Strawpoll\Strawpoll.Tests\obj\Debug\netcoreapp2.0\Strawpoll.Tests.AssemblyInfo.cs
+C:\Projekty\Strawpoll\Strawpoll.Tests\obj\Debug\netcoreapp2.0\Strawpoll.Tests.csproj.CopyComplete
+C:\Projekty\Strawpoll\Strawpoll.Tests\obj\Debug\netcoreapp2.0\Strawpoll.Tests.dll
+C:\Projekty\Strawpoll\Strawpoll.Tests\obj\Debug\netcoreapp2.0\Strawpoll.Tests.pdb

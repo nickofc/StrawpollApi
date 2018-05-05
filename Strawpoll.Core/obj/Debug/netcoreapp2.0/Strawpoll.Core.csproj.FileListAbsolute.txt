@@ -1,0 +1,8 @@
+C:\Projekty\Strawpoll\Strawpoll.Core\bin\Debug\netcoreapp2.0\Strawpoll.Core.deps.json
+C:\Projekty\Strawpoll\Strawpoll.Core\bin\Debug\netcoreapp2.0\Strawpoll.Core.dll
+C:\Projekty\Strawpoll\Strawpoll.Core\bin\Debug\netcoreapp2.0\Strawpoll.Core.pdb
+C:\Projekty\Strawpoll\Strawpoll.Core\obj\Debug\netcoreapp2.0\Strawpoll.Core.csproj.CoreCompileInputs.cache
+C:\Projekty\Strawpoll\Strawpoll.Core\obj\Debug\netcoreapp2.0\Strawpoll.Core.AssemblyInfoInputs.cache
+C:\Projekty\Strawpoll\Strawpoll.Core\obj\Debug\netcoreapp2.0\Strawpoll.Core.AssemblyInfo.cs
+C:\Projekty\Strawpoll\Strawpoll.Core\obj\Debug\netcoreapp2.0\Strawpoll.Core.dll
+C:\Projekty\Strawpoll\Strawpoll.Core\obj\Debug\netcoreapp2.0\Strawpoll.Core.pdb
